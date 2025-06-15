@@ -1,0 +1,2 @@
+# ForgeAI
+Fully local AI
